@@ -72,10 +72,11 @@
   
 ### Instale as dependências:
 
-npm install
+- npm install
 
 ### Execute o projeto:
-npm start
+
+- npm start
 
 ---
 
