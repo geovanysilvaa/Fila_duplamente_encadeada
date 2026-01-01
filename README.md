@@ -69,19 +69,13 @@
 ### Acesse a pasta do projeto:
 
 - cd nome-do-repositorio
+  
+### Instale as dependências:
 
+npm install
 
-### Compile o TypeScript:
-
-- tsc
-
-
-### Execute o arquivo de testes:
-
-- node dist/teste.js
-
-
-- (ou diretamente com ts-node, se estiver usando)
+### Execute o projeto:
+npm start
 
 ---
 
